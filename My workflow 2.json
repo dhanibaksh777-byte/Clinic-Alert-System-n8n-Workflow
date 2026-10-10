@@ -119,7 +119,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://discord.com/api/webhooks/1558463753605881909/XZzOCIUmQbVoTiqJNzQ0rlFlqNjj_z0HNddW7WZRjAJPwoEaLyNzlk0m6aH6-nYaMYz5",
+        "url": "https://discord.com/api/webhooks/PLACEHOLDER",
         "sendBody": true,
         "bodyParameters": {
           "parameters": [
